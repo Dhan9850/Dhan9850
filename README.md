@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dhan9850
 - 👀 I’m interested in Coding and Explore Technology
 - 🌱 I’m currently learning Coding{C,C++,JAVA,JAVASCRIPT)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dhananjaypatil57131@gmail.com
 
 <!---
